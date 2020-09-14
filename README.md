@@ -1,7 +1,7 @@
 # Humanitarian Incidents in Africa by the Overseas Security Advisory Council at the Department of State
 This is the data repository for the Humanitarian Incidents in Africa operated and updated by the Overseas Security Advisory Council at the Department of State.
 
-<b> Visual Dashboard (desktop): </b> https://dsosac.maps.arcgis.com/apps/opsdashboard/index.html#/96016d5d2edc4670abf38341db6a0077
+<b> Visual Dashboard (desktop): </b> https://arcg.is/bmOqv
 
 <b>Provided by Overseas Security Advisory Council:</b>
 https://osac.gov/
@@ -18,7 +18,7 @@ Please do not use, reproduce, or otherwise share without attribution to the orig
 
 1. Data from the ACLED was imported and then filtered using the following key words to determine relevancy to humanitarian workers: 'humanitarian (notes/actor2/assoc_actor_2), aid work (notes/actor2/assoc_actor_2)'. The following key phrase omitted entries: 'humanitarian source, humanitarian funds, humanitarian preparedness, humanitarian map' and 'peaceful (sub_event_type). This process was double checked for accuracy and precision.
 
-2. ACLED data was grouped using the inter codes as found in ACLED's  ACLED's External/State Forces was combined with ACLED's State Forces tag, an unknown tag was created that filtered if the actor name was "unknown" or "unidentified." Lastly, a new group was created - Violent Islamist Extremist Groups - from ACLED's inter2 (Political Milita) tag based on these key words for actor1: 'boko', 'katiba', 'islamic state', 'isis', 'jnim', 'iswap', 'isgs', 'al-qa', 'al qa', 'al-s', 'al s', 'islamist', 'veo', 'violent extremist', 'ansaroul', 'ansarul', 'ansar', 'al-mo', 'al mo', 'mujao', 'aqim'.
+2. ACLED data was grouped using the inter codes as found in ACLED's  ACLED's External/State Forces was combined with ACLED's State Forces tag, an unknown tag was created that filtered if the actor name was "unknown" or "unidentified." Lastly, a new group was created - Violent Islamist Extremist Groups - from ACLED's inter2 (Political Milita) tag based on these key words for actor1: 'boko', 'katiba', 'islamic state', 'isis', 'jnim', 'iswap', 'isgs', 'al-qa', 'al qa', 'al-sha', 'al sha', 'islamist', 'veo', 'violent extremist', 'ansaroul', 'ansarul', 'ansar', 'al-mo', 'al mo', 'mujao', 'aqim'.
 
 3. Data from the AWSD was imported and then grouped using the ACLED inter code groupings and the values from the previously filtered ACLED dataset. Several incorrect latitude/longitude pairs were manually corrected.
 
