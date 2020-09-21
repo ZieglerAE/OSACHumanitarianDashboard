@@ -31,7 +31,7 @@ Please do not use, reproduce, or otherwise share without attribution to the orig
 - [Overseas Security Advisory Council (OSAC)](https://www.osac.gov)
 - [GitHub Repository of Data Files](https://www.github.com/ZieglerAE/OSACHumanitarianDashboard)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com)
-- [Aid Worder Security Database](https://www.aidworkersecurity.org)
+- [Aid Worker Security Database](https://www.aidworkersecurity.org)
 - [ReliefWeb](https://www.reliefweb.int)
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 
