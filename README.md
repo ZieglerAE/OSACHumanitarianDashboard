@@ -1,7 +1,7 @@
 # Humanitarian Incidents in Africa by the Overseas Security Advisory Council at the Department of State
 This is the data repository for the Humanitarian Incidents in Africa operated and updated by the Overseas Security Advisory Council at the Department of State.
 
-<b> Visual Dashboard (desktop): </b> https://arcg.is/bmOqv
+<b> Visual Dashboard (desktop): </b> https://humanitarianincidentdashboard.com
 
 <b>Provided by Overseas Security Advisory Council:</b>
 https://osac.gov/
