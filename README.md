@@ -38,5 +38,5 @@ Please do not use, reproduce, or otherwise share without attribution to the orig
 
 <b>Contact Us: </b>
 
-* Email: osacAF@state.gov
+* Email: OSACAfrica@state.gov
 
